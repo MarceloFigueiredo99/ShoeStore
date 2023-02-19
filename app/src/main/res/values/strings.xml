@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="welcome_shoe_store">Welcome to your Shoe Store</string>
+    <string name="welcome_message">Welcome to the shoe store app, we are really excited that you are here. We hope you find great utility using our app. Have lots of fun! </string>
+    <string name="instructions">Instructions</string>
+    <string name="how_to_use_the_app">How to use the app</string>
+    <string name="instructions_message">The purpose of this app is to check shoes details.\nIn the next screen, you will be prompted with a list of shoes, to which you can add your own detailed shoes.\n After specifying your shoe details, you can add the shoe to the list and when returning to the list, you shall see it.\n Have fun! </string>
+    <string name="shoe_list">Shoe List</string>
+    <string name="button_details">DETAILS</string>
+    <string name="logout">Logout</string>
+    <string name="name_hint">Originals</string>
+    <string name="text_name">Name</string>
+    <string name="company_hint">Adidas</string>
+    <string name="description_hint">Comfy black shoe</string>
+    <string name="text_description">Description</string>
+    <string name="text_company">Company</string>
+    <string name="button_save">Save</string>
+    <string name="buton_cancel">Cancel</string>
+    <string name="size_hint">39.5</string>
+    <string name="shoe_details_title">New shoe details</string>
+    <string name="text_size">Size</string>
+    <string name="shoe_value">%.1f</string>
+
+</resources>
